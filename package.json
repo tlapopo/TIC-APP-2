@@ -1,7 +1,7 @@
 {
-  "name": "moodlemobile",
-  "version": "3.9.2",
-  "description": "The official app for Moodle.",
+  "name": "virtualti",
+  "version": "3.7.1",
+  "description": "Primeras Pruebas con el prototipo de app movil de ti.",
   "author": {
     "name": "Moodle Pty Ltd.",
     "email": "mobile@moodle.com"
