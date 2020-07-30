@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.moodle.TicAPK"
+    versionCode = "37000"
+    version     = "3.7.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>virtualti</name>
+
+  <description>
+      Primeras pruebas con la app de TI
+  </description>
+
+  <author href="http://ti.utxicotepec.edu.mx" email="tlapopoche@gmail.com">
+      Joel Zuñiga Fernaldo
+  </author>
+
+</widget>
